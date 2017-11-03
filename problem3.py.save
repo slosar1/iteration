@@ -1,0 +1,9 @@
+while var == 1 :
+
+	for computer in range(1,1000+1):
+		if(computer < range):
+			print("is this right?")
+		elif(computer > range):
+			print("is this right")
+		elif(computer = number):
+			print("is this right?")

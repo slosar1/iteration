@@ -1,0 +1,5 @@
+sentence = input("Please type a sentence:")
+print(sentence)
+str(append(input(sentence))
+print(sentnece)
+print(sentence[-1])
